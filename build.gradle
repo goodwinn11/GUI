@@ -21,7 +21,7 @@ dependencies  {
     implementation 'com.google.code.gson:gson:2.9.0'
 }
 application {
-    mainClass = 'week5.HelloFx'
+    mainClass = 'week5.ExampleFX'
 }
 tasks.named('test') {
     useJUnitPlatform()
